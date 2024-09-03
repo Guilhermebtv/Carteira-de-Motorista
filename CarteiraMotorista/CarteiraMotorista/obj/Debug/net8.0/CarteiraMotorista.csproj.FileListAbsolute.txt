@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\bin\Debug\net8.0\CarteiraMotorista.exe
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\bin\Debug\net8.0\CarteiraMotorista.deps.json
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\bin\Debug\net8.0\CarteiraMotorista.runtimeconfig.json
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\bin\Debug\net8.0\CarteiraMotorista.dll
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\bin\Debug\net8.0\CarteiraMotorista.pdb
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\CarteiraMotorista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\CarteiraMotorista.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\CarteiraMotorista.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\CarteiraMotorista.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\CarteiraMotorista.dll
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\refint\CarteiraMotorista.dll
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\CarteiraMotorista.pdb
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\CarteiraMotorista.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ESTUDOS\CarteiraMotorista\CarteiraMotorista\obj\Debug\net8.0\ref\CarteiraMotorista.dll
